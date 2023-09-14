@@ -1,0 +1,1 @@
+export const openGraphImage = { images: ['https://images.app.goo.gl/eNMaVKJUpCR1y8nR8'] }
